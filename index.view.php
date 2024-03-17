@@ -1,3 +1,4 @@
+<?php require('functions.php') ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +7,10 @@
     <title>Home</title>
 </head>
 <body>
-        Hello
+        <h1>Hello Buddy !</h1>
+
+        <?= add(1,2) ?>
+
+       
 </body>
 </html>
