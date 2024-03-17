@@ -9,7 +9,7 @@
 <body>
         <h1>Hello Buddy !</h1>
 
-        <?= add(1,2) ?>
+        <?= add(10,10) ?>
 
        
 </body>
